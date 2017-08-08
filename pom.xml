@@ -201,16 +201,16 @@
         </dependency>
 
         <!-- SECURITY 1.0 -->
-        <dependency>
+<!--        <dependency>
             <groupId>javax.security</groupId>
             <artifactId>javax.security-api</artifactId>
-            <version>1.0-m01</version>
+            <version>1.0-b07</version>
         </dependency>
         <dependency>
             <groupId>org.glassfish.soteria</groupId>
             <artifactId>soteria</artifactId>
-            <version>1.0-m01</version>
-        </dependency>
+            <version>1.0-b07</version>
+        </dependency>-->
 
         <dependency>
             <groupId>javax.annotation</groupId>
